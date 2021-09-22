@@ -96,7 +96,8 @@
   height: 650px;
   background-image: url(../Resources/bckclientes.jpg);
   background-position: center;
-  background-size: cover; }
+  background-size: cover; 
+}
   .bodyClientes .gallery {
     margin-top: 60px;
     display: grid;
